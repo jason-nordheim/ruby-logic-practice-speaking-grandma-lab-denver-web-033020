@@ -1,7 +1,8 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma statement
-  if statement = 'I LOVE YOU GRANDMA!'
+  if statement == 'I LOVE YOU GRANDMA!'
     'I LOVE YOU TOO PUMPKIN!'
+  elsif statements == 'WHAT DID YOU EAT TODAY?'
   else
     'HUH?! SPEAK UP, SONNY!'
   end
