@@ -2,7 +2,7 @@
 def speak_to_grandma statement
   if statement == 'I LOVE YOU GRANDMA!'
     'I LOVE YOU TOO PUMPKIN!'
-  elsif statements == 'WHAT DID YOU EAT TODAY?'
+  elsif statements == 'WHAT DID YOU EAT TODAY?' || 'WHAT?'
   else
     'HUH?! SPEAK UP, SONNY!'
   end
